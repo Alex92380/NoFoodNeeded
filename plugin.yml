@@ -1,0 +1,4 @@
+name: NoFoodLevel
+api-version: 1.13
+version: 1.0
+main: fr.alex92380.nofoodneeded.Main
